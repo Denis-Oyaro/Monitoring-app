@@ -1,0 +1,5 @@
+# Ignore the database
+/.data
+
+# Ignore .pem files
+*.pem

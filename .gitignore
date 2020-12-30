@@ -1,5 +1,8 @@
 # Ignore the database
 /.data
 
+# Ignore the logs
+/.logs
+
 # Ignore .pem files
 *.pem
